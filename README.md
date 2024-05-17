@@ -1,10 +1,9 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
+- 🎓 Estudando Engenharia de Controle e Automação na UFMG.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
@@ -12,49 +11,30 @@
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C](	https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/joaovitor1704" title="Perfil do João Vitor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor1704&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-joaovitoralves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitor-alves/)](https://www.linkedin.com/in/joaovitor-alves/)
+[![Gmail Badge](https://img.shields.io/badge/-joaovitor1alves7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitor1alves7@gmail.com)](mailto:joaovitor1alves7@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/joaovitor1704?label=follow&style=social)](https://github.com/joaovitor1704)
 <!--
 **joaovitor1704/joaovitor1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
